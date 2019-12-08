@@ -1,6 +1,6 @@
 # Joey Brute Forcer
 
-A python script that checks every possible combination of update keys for the joey
+A python script that checks every possible combination of update keys for the Joey Joebags (Gen 3)
 
 ![](https://i.gyazo.com/bbdd483fe5b5b68ac6b06fbd916a379d.gif)
 
