@@ -7,7 +7,6 @@ dev = usb.core.find(idVendor=0x046d, idProduct=0x1234)
 with open("JoeyList.txt") as f:
     for line in f:
         Key=line[0:8]
-        print("Testing ", line)
         B1=int(Key[0:2],16)
         B2=int(Key[2:4],16)
         B3=int(Key[4:6],16)
@@ -28,5 +27,3 @@ with open("JoeyList.txt") as f:
             keyFile.write(line)
             keyFile.close()
             break
-        if(USBbuffer[0] == 0):
-            print("Failed")
