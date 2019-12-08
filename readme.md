@@ -2,6 +2,8 @@
 
 A python script that checks every possible combination of update keys for the joey
 
+![](https://i.gyazo.com/bbdd483fe5b5b68ac6b06fbd916a379d.gif)
+
 ## Requirements
 
 - Python (Windows users don't need this)
