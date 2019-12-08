@@ -16,8 +16,6 @@ Generate the wordlist (Warning this will take up 36GB)
 crunch 8 8 0123456789abcdef -o JoeyList.txt 
 ```
 
-Add libusb-1.0.dll to your path
-
 Plug in your Joey (you need to have the drivers installed)
 
 Put Joeybruteforcer.exe(Or the .py file if you're on linux) in the same folder as JoeyList.txt and run it
