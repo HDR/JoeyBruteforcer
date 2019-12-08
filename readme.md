@@ -25,3 +25,18 @@ Plug in your Joey (you need to have the drivers installed)
 Put Joeybruteforcer.py in the same folder as JoeyList.txt and run it
 
 Now wait, the brute forcer will test every possible combination of keys until it finds one that works, it will then output that key to a file named "key.txt"
+
+
+## Notes
+
+Keys may contain only letters or only numbers, using a wordlist that only has one of these before using a bigger one may be benefitial.
+
+Numbers
+```
+crunch 8 8 0123456789 -o JoeyList.txt 
+```
+
+Letters
+```
+crunch 8 8 abcdef -o JoeyList.txt 
+```
