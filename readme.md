@@ -4,6 +4,8 @@ A python script that checks every possible combination of update keys for the Jo
 
 ![](https://i.gyazo.com/bbdd483fe5b5b68ac6b06fbd916a379d.gif)
 
+The gif above is an example, the actual script has no output to increase the speed.
+
 ## Requirements
 
 - Python
