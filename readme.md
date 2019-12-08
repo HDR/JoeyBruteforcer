@@ -29,7 +29,7 @@ Now wait, the brute forcer will test every possible combination of keys until it
 
 ## Notes
 
-Keys may contain only letters or only numbers, using a wordlist that only has one of these before using a bigger one may be benefitial.
+Keys may contain only numbers or letters, using a wordlist that only has one of these before using a bigger one may be benefitial.
 
 Numbers
 ```
