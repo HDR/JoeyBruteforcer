@@ -6,6 +6,8 @@ import usb.util
 dev = usb.core.find(idVendor=0x046d, idProduct=0x1234)
 with open("JoeyList.txt") as f:
     for line in f:
+        #Uncomment the line below if you want to know what key is currently being tested, this will slow down the brute forcing process
+        #print(line)
         Key=line[0:8]
         B1=int(Key[0:2],16)
         B2=int(Key[2:4],16)
