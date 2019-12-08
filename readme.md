@@ -8,6 +8,8 @@ A python script that checks every possible combination of update keys for the Jo
 
 - Python (Windows users don't need this)
 - Crunch (Linux users can install this trough their package manager, Windows users can use the linux subsystem or alternatively try https://github.com/shadwork/Windows-Crunch/releases)
+- libusb
+- pyusb
 
 ## Usage
 
