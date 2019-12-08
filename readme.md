@@ -14,6 +14,8 @@ Generate the wordlist (Warning this will take up 36GB)
 crunch 8 8 0123456789abcdef -o JoeyList.txt 
 ```
 
+Plug in your Joey (you need to have the drivers installed)
+
 Put Joeybruteforcer.exe(Or the .py file if you're on linux) in the same folder as JoeyList.txt and run it
 
 Now wait, the brute forcer will test every possible combination of keys until it finds one that works, it will then output that key to a file named "key.txt"
