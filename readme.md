@@ -1,5 +1,7 @@
 # Joey Brute Forcer
 
+Estimated max time to crack (8700K) 14-15 Days (4294967296 Lines)
+
 A python script that checks every possible combination of update keys for the Joey Joebags (Gen 3)
 
 ![](https://i.gyazo.com/bbdd483fe5b5b68ac6b06fbd916a379d.gif)
