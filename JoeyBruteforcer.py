@@ -1,4 +1,3 @@
-import string
 import usb.core
 
 dev = usb.core.find(idVendor=0x046d, idProduct=0x1234)
