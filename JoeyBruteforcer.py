@@ -1,6 +1,5 @@
 import string
 import usb.core
-import usb.util
 
 dev = usb.core.find(idVendor=0x046d, idProduct=0x1234)
 with open("JoeyList.txt") as f:
