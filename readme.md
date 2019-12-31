@@ -51,4 +51,4 @@ This generates 250mb files, on a modern system (8700k) it takes just over 3 hour
 
 
 
-**Known uccessful cracks:** 1
+**Known uccessful cracks:** 2
