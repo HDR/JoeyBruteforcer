@@ -48,3 +48,7 @@ If you don't want to run the script for days you can generate the wordlist in ch
 crunch 8 8 0123456789abcdef -b 250mb -o START
 ```
 This generates 250mb files, on a modern system (8700k) it takes just over 3 hours to go trough one file
+
+
+
+**Known uccessful cracks:** 1
