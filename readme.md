@@ -1,3 +1,15 @@
+# OUTDATED
+
+See https://github.com/HDR/JoeyKeygen
+#
+#
+#
+#
+#
+#
+#
+#
+
 # Joey Brute Forcer
 
 A python script that checks every possible combination of update keys for the Joey Joebags (Gen 3)
